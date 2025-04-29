@@ -1,5 +1,5 @@
 # Building in-house
-### Building India's Future in Hardware & Software
+### Building India's Next-Gen in Silicon & Software
 
 ---
 
@@ -7,7 +7,7 @@
   <!-- Optional: Add your Logo here if you have one hosted -->
   <!-- <img src="URL_TO_YOUR_LOGO.png" alt="Building In-House Logo" width="200"/> -->
   <br>
-  <strong>Welcome to Building In-House, India's first Crowd-Sourced Hardware-Software Organisation!</strong>
+  <strong>Welcome to Building In-House, India's first Crowd-Sourced Silicon & Software Organisation!</strong>
   <br>
   We are on a mission to design, develop, and deliver the next generation of indigenous hardware and software products. We believe in the power of community collaboration and investment to drive innovation across the full tech stack.
 </p>
@@ -17,7 +17,7 @@
 
 ## <a id="featured-projects"></a>🚀 Featured Projects
 
-Explore some of our key open-source initiatives spanning hardware and software:
+Explore some of our key open-source initiatives spanning silicon and software:
 
 *   **[coba-synthesis-engine](https://github.com/Building-in-house/coba-synthesis-engine):** A vision to build an industry-standard interactive hardware debugging tool with AI support.
 *   **[gnn-accelerator](https://github.com/Building-in-house/gnn-accelerator):** Developing specialized hardware accelerators for Graph Neural Networks and their supporting software libraries.

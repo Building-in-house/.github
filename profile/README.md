@@ -24,7 +24,7 @@ Explore some of our key open-source initiatives spanning hardware and software:
 *   Loading project data...
 <!-- END_FEATURED_PROJECTS -->
 
-➡️ [**View All Our Projects**](https://github.com/orgs/Building-in-house/repositories) *Build*
+➡️ [**View All Our Projects**](https://github.com/orgs/Building-in-house/repositories) *Building in-house*
 
 ---
 

@@ -7,7 +7,7 @@
   <!-- Optional: Add your Logo here if you have one hosted -->
   <!-- <img src="URL_TO_YOUR_LOGO.png" alt="Building In-House Logo" width="200"/> -->
   <br>
-  <strong>Welcome to Building In-House, India's first Crowd-Sourced Silicon & Software Organisation!</strong>
+  <strong>Welcome to Building In-House, India's very own Open Core Silicon & Software Organisation!</strong>
   <br>
   We are on a mission to design, develop, and deliver the next generation of indigenous hardware and software products. We believe in the power of community collaboration and investment to drive innovation across the full tech stack.
 </p>

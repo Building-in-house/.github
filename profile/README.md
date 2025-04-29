@@ -19,8 +19,8 @@
 
 Explore some of our key open-source initiatives spanning hardware and software:
 
-*   **[coba-synthesis-engine](https://github.com/Building-in-house/coba-synthesis-engine):** A vision to build an industry-standard interactive hardware debugging tool with AI support. *(Replace YourOrgName)*
-*   **[gnn-accelerator](https://github.com/Building-in-house/gnn-accelerator):** Developing specialized hardware accelerators for Graph Neural Networks and their supporting software libraries. *(Replace YourOrgName)*
+*   **[coba-synthesis-engine](https://github.com/Building-in-house/coba-synthesis-engine):** A vision to build an industry-standard interactive hardware debugging tool with AI support.
+*   **[gnn-accelerator](https://github.com/Building-in-house/gnn-accelerator):** Developing specialized hardware accelerators for Graph Neural Networks and their supporting software libraries.
   
 ➡️ [**View All Our Projects**](https://github.com/orgs/Building-in-house/repositories)
 

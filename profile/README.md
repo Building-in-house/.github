@@ -43,7 +43,7 @@ Choose your investment tier and become an integral part of this revolutionary jo
 *   **Investment:** **₹5,000** (One-Time)
 *   **Benefits:**
     *   Early Supporter Certificate (Digital)
-    *   Quarterly Progress Updates via Newsletter (Covering H/W & S/W)
+    *   Quarterly Progress Updates
     *   Early Access to Major Product Announcements
     *   Priority Access for Purchasing Future Products
     *   ➡️ [**Express Interest in Supporting Member Tier**](mailto:yashkumar3066@gmail.com?subject=Interest%20in%20Building%20In-House%20-%20Supporting%20Member%20Tier)

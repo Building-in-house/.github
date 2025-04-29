@@ -1,4 +1,4 @@
-# Building In-House 🇮🇳✨
+# Building In-House✨
 ### Building India's Future in Hardware & Software
 
 ---

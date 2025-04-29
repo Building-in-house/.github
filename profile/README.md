@@ -15,15 +15,13 @@
 ---
 
 
-## 🚀 Featured Projects
+## <a id="featured-projects"></a>🚀 Featured Projects
 
 Explore some of our key open-source initiatives spanning hardware and software:
 
-<!-- START_FEATURED_PROJECTS -->
-<!-- This list is automatically generated - Do not edit manually -->
-*   Loading project data...
-<!-- END_FEATURED_PROJECTS -->
-
+*   **[coba-synthesis-engine](https://github.com/Building-in-house/coba-synthesis-engine):** A vision to build an industry-standard interactive hardware debugging tool with AI support. *(Replace YourOrgName)*
+*   **[gnn-accelerator](https://github.com/Building-in-house/gnn-accelerator):** Developing specialized hardware accelerators for Graph Neural Networks and their supporting software libraries. *(Replace YourOrgName)*
+*   
 ➡️ [**View All Our Projects**](https://github.com/orgs/Building-in-house/repositories)
 
 ---

@@ -30,7 +30,7 @@ Explore some of our key open-source initiatives spanning hardware and software:
 
 Building In-House thrives on community involvement. You can help shape India's tech future through code contributions (hardware or software), documentation, mentorship, or by investing in our integrated vision.
 
-### Contribution Tiers via Razorpay
+### Contribution Tiers
 
 Choose your investment tier and become an integral part of this revolutionary journey. Your funds directly support R&D, infrastructure, tooling, and community growth across both hardware and software domains.
 

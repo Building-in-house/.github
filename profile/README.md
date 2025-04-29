@@ -1,4 +1,4 @@
-# Building In-House✨
+# Building in-house
 ### Building India's Future in Hardware & Software
 
 ---
@@ -21,7 +21,7 @@ Explore some of our key open-source initiatives spanning hardware and software:
 
 *   **[coba-synthesis-engine](https://github.com/Building-in-house/coba-synthesis-engine):** A vision to build an industry-standard interactive hardware debugging tool with AI support. *(Replace YourOrgName)*
 *   **[gnn-accelerator](https://github.com/Building-in-house/gnn-accelerator):** Developing specialized hardware accelerators for Graph Neural Networks and their supporting software libraries. *(Replace YourOrgName)*
-*   
+  
 ➡️ [**View All Our Projects**](https://github.com/orgs/Building-in-house/repositories)
 
 ---
@@ -46,9 +46,7 @@ Choose your investment tier and become an integral part of this revolutionary jo
     *   Quarterly Progress Updates via Newsletter (Covering H/W & S/W)
     *   Early Access to Major Product Announcements
     *   Priority Access for Purchasing Future Products
-*   ➡️ [**Become a Supporting Member (Pay ₹5,000 via Razorpay)**](YOUR_RAZORPAY_LINK_FOR_5000)
-    *   *Please replace `YOUR_RAZORPAY_LINK_FOR_5000` with your actual Razorpay Payment Link/Page for this tier.*
-
+    *   ➡️ [**Express Interest in Supporting Member Tier**](mailto:yashkumar3066@gmail.com?subject=Interest%20in%20Building%20In-House%20-%20Supporting%20Member%20Tier)
 ---
 
 ### 🛠️ Core Member
@@ -61,8 +59,7 @@ Choose your investment tier and become an integral part of this revolutionary jo
     *   Access to Alpha/Beta Testing Programs (Hardware & Software)
     *   Eligibility Considered for Contributing Roles (Engineering/Business, Merit-Based)
     *   Exclusive Building In-House Core Member Welcome Kit (Merchandise)
-*   ➡️ [**Become a Core Member (Pay ₹25,000 via Razorpay)**](YOUR_RAZORPAY_LINK_FOR_25000)
-    *   *Please replace `YOUR_RAZORPAY_LINK_FOR_25000` with your actual Razorpay Payment Link/Page for this tier.*
+    *   ➡️ [**Express Interest in Core Member Tier**](mailto:yashkumar3066@gmail.com?subject=Interest%20in%20Building%20In-House%20-%20Core%20Member%20Tier)
 
 ---
 
@@ -76,12 +73,7 @@ Choose your investment tier and become an integral part of this revolutionary jo
     *   Opportunity to Lead or Sponsor Special Project Tracks (Subject to Alignment)
     *   Option to Formally Mentor Engineering or Business Teams
     *   Project Mentor Recognition Plaque & Premium Gift
-*   ➡️ [**Become a Project Mentor (Pay ₹50,000 via Razorpay)**](YOUR_RAZORPAY_LINK_FOR_50000)
-    *   *Please replace `YOUR_RAZORPAY_LINK_FOR_50000` with your actual Razorpay Payment Link/Page for this tier.*
-
----
-
-*   **Need a different way to contribute or use GPay/UPI?** Please reach out to us directly (add contact email or link here) or consider contributing directly to our project repositories!
+    *   ➡️ [**Express Interest in Project Mentor Tier**](mailto:yashkumar3066@gmail.com?subject=Interest%20in%20Building%20In-House%20-%20Project%20Mentor%20Tier)
 
 ---
 
@@ -97,8 +89,6 @@ We believe in transparency and community alignment. Check out our public roadmap
 
 Building In-House is more than an organization; it's a movement. We are a collective of passionate engineers, designers, researchers, developers, and visionaries committed to building world-class, indigenous hardware and software capabilities for India and the world. Our crowd-sourced model enables us to tap into the vast talent pool and foster collaborative innovation across the full stack, from silicon to application layer.
 
-*   [Link to your main website About page, if available]
-
 ---
 
 ## 💬 Get Involved & Share Feedback
@@ -106,9 +96,5 @@ Building In-House is more than an organization; it's a movement. We are a collec
 Your voice matters!
 
 *   **Found a bug or have an idea (H/W or S/W)?** [Open an Issue](https://github.com/YourOrgName/RelevantRepo/issues) *(Link to a specific repo's issues or the org's default)*
-*   **Want to discuss features or strategy?** [Join our Community Discussions](link-to-discussions-or-forum) *(If you use GitHub Discussions or have a forum/Discord)*
-*   **Follow our journey:** [Twitter](link-to-twitter) | [LinkedIn](link-to-linkedin) | [Blog](link-to-blog) *(Add/remove relevant social links)*
-
+*   **Want to discuss features or strategy?** [Join our Community]([link-to-discussions-or-forum](https://join.slack.com/t/building-in-house/shared_invite/zt-300jdnu1y-GU4pLTq65yL9TYm45d2HSg))
 ---
-
-© 2024 Building In-House. All rights reserved. Building India's Tech Future, Together.

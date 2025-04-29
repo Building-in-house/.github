@@ -81,7 +81,7 @@ Choose your investment tier and become an integral part of this revolutionary jo
 
 We believe in transparency and community alignment. Check out our public roadmap to see our current focus, upcoming milestones, and long-term vision for both hardware and software initiatives.
 
-➡️ [**View Our Public Roadmap**](link-to-your-roadmap-file-wiki-or-project-board) *(Replace with the actual link)*
+➡️ [**View Our Public Roadmap**](link-to-your-roadmap-file-wiki-or-project-board)
 
 ---
 
@@ -95,6 +95,6 @@ Building In-House is more than an organization; it's a movement. We are a collec
 
 Your voice matters!
 
-*   **Found a bug or have an idea (H/W or S/W)?** [Open an Issue](https://github.com/YourOrgName/RelevantRepo/issues) *(Link to a specific repo's issues or the org's default)*
+*   **Found a bug or have an idea (H/W or S/W)?** [Open an Issue]([https://github.com/Building-in-house//issues](https://github.com/Building-in-house/coba-synthesis-engine/issues)) 
 *   **Want to discuss features or strategy?** [Join our Community]([link-to-discussions-or-forum](https://join.slack.com/t/building-in-house/shared_invite/zt-300jdnu1y-GU4pLTq65yL9TYm45d2HSg))
 ---

@@ -1,5 +1,4 @@
-# Building in-house
-### Building India's Next-Gen in Silicon & Software
+# Building India's Next-Gen in Silicon & Software
 
 ---
 

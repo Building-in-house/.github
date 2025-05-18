@@ -92,6 +92,6 @@ Building In-House is more than an organization; it's a movement. We are a collec
 
 Your voice matters!
 
-*   **Found a bug or have an idea (H/W or S/W)?** [coba-synthesis-engine](https://github.com/Building-in-house/coba-synthesis-engine/issues) [gnn-accelerator](https://github.com/Building-in-house/gnn-accelerator/issues)
+*   **Found a bug or have an idea (H/W or S/W)?** [nyra-home-decor](https://github.com/Building-in-house/nyra-home-decor/issues) [gnn-accelerator](https://github.com/Building-in-house/gnn-accelerator/issues)
 *   **Want to discuss features or strategy?** [Join our Community](https://join.slack.com/t/building-in-house/shared_invite/zt-300jdnu1y-GU4pLTq65yL9TYm45d2HSg)
 ---

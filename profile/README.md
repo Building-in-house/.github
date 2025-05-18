@@ -19,7 +19,7 @@
 
 Explore some of our key open-source initiatives spanning silicon and software:
 
-*   **[nyra-home-decor](https://github.com/Building-in-house/nyra-home-decor):**Check out nyrahome.com - A home decor company building a product gallery with an interactive AI home visualizer.
+*   **[nyra-home-decor](https://github.com/Building-in-house/nyra-home-decor):** Check out nyrahome.com - A home decor company building a product gallery with an interactive AI home visualizer.
 *   **[gnn-accelerator](https://github.com/Building-in-house/gnn-accelerator):** Developing specialized hardware accelerators for Graph Neural Networks and their supporting software libraries.
   
 ➡️ [**View All Our Projects**](https://github.com/orgs/Building-in-house/repositories)

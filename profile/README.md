@@ -4,7 +4,7 @@
   <!-- Optional: Add your Logo here if you have one hosted -->
   <!-- <img src="URL_TO_YOUR_LOGO.png" alt="Building In-House Logo" width="200"/> -->
   <br>
-  <strong>Welcome to Building In-House, India's very own Open Core Silicon & Software Organisation!</strong>
+  <strong>Welcome to Building In-House, India's very own Core Silicon & Software Organisation!</strong>
   <br>
   We are on a mission to design, develop, and deliver the next generation of indigenous hardware and software products. We believe in the power of community collaboration and investment to drive innovation across the full tech stack.
 </p>
@@ -84,7 +84,7 @@ We believe in transparency and community alignment. Check out our public roadmap
 
 ## <a id="about-us"></a>🏢 About Us
 
-Building In-House is more than an organization; it's a movement. We are a collective of passionate engineers, designers, researchers, developers, and visionaries committed to building world-class, indigenous hardware and software capabilities for India and the world. Our crowd-sourced model enables us to tap into the vast talent pool and foster collaborative innovation across the full stack, from silicon to application layer.
+Building In-House is more than an organization; it's a movement. We are a collective of passionate engineers, designers, researchers, developers, and visionaries committed to building world-class, indigenous hardware and software capabilities for India and the world. Our crowd-sourced model enables us to tap into the vast talent pool and foster collaborative innovation across the all stack, from silicon to application layer.
 
 ---
 

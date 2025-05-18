@@ -1,7 +1,5 @@
 # Building India's Next-Gen in Silicon & Software
 
----
-
 <p align="center">
   <!-- Optional: Add your Logo here if you have one hosted -->
   <!-- <img src="URL_TO_YOUR_LOGO.png" alt="Building In-House Logo" width="200"/> -->

@@ -1,4 +1,4 @@
-# Building India's Next-Gen in Silicon & Software
+# <p align="center"> Building India's Next-Gen in Silicon & Software
 
 <p align="center">
   <!-- Optional: Add your Logo here if you have one hosted -->
